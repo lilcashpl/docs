@@ -66,7 +66,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [lilcashpl/docs](https://github.com/lilcashpl/docs)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|83<br/>Tools used|11/30/23 <br/>Report generated|
+|86<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -338,9 +338,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (53)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (56)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (53)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (56)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -352,6 +352,7 @@ Full tech stack [here](/techstack.md)
 |[@typescript-eslint/parser](https://www.npmjs.com/@typescript-eslint/parser)|v6.11.0|11/14/23|Peter Bengtsson |BSD-2-Clause|N/A|
 |[ajv](https://www.npmjs.com/ajv)|v6.12.6|09/27/20|Vanessa Yuen |MIT|N/A|
 |[boxen](https://www.npmjs.com/boxen)|v7.1.1|10/10/23|Peter Bengtsson |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v2.4.2|06/15/22|Kevin Heis |MIT|N/A|
 |[change-case](https://www.npmjs.com/change-case)|v5.0.2|11/13/23|Kevin Heis |MIT|N/A|
 |[cheerio](https://www.npmjs.com/cheerio)|v1.0.0|10/02/23|Peter Bengtsson |MIT|N/A|
 |[classnames](https://www.npmjs.com/classnames)|v2.3.1|06/05/23|Kevin Heis |MIT|N/A|
@@ -376,8 +377,10 @@ Full tech stack [here](/techstack.md)
 |[helmet](https://www.npmjs.com/helmet)|v7.0.0|05/11/23|dependabot[bot] |MIT|N/A|
 |[html-entities](https://www.npmjs.com/html-entities)|v2.3.3|11/13/23|Kevin Heis |MIT|N/A|
 |[http-proxy-middleware](https://www.npmjs.com/http-proxy-middleware)|v2.0.6|11/14/23|Kevin Heis |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v8.0.3|11/27/23|Kevin Heis |MIT|N/A|
 |[js-cookie](https://www.npmjs.com/js-cookie)|v3.0.1|11/14/23|Peter Bengtsson |MIT|N/A|
 |[js-yaml](https://www.npmjs.com/js-yaml)|v3.14.1|11/13/23|Kevin Heis |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v15.0.2|11/14/23|Peter Bengtsson |MIT|N/A|
 |[lodash-es](https://www.npmjs.com/lodash-es)|v4.17.21|11/14/23|Peter Bengtsson |MIT|N/A|
 |[lowdb](https://www.npmjs.com/lowdb)|v6.0.0|04/25/23|Peter Bengtsson |MIT|N/A|
 |[mkdirp](https://www.npmjs.com/mkdirp)|v3.0.0|04/12/23|dependabot[bot] |MIT|N/A|

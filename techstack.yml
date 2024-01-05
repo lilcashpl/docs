@@ -1,11 +1,12 @@
 repo_name: lilcashpl/docs
 report_id: 437f738cb3cd0fbea2bcfa53847f2ac5
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-30T15:26:21+00:00'
+timestamp: '2024-01-05T08:32:17+00:00'
 requested_by: docs-bot
 provider: github
 branch: main
-detected_tools_count: 83
+detected_tools_count: 86
 tools:
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/lilcashpl/docs
   detection_source: Repo Metadata
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/lilcashpl/docs
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -37,6 +40,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package.json
   detection_source: package.json
   last_updated_by: Vanessa Yuen
   last_updated_on: 2020-09-27 12:10:11.000000000 Z
@@ -51,7 +55,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/1163/hashtag.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Kevin Heis
   last_updated_on: 2023-11-13 17:04:32.000000000 Z
@@ -64,7 +68,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/5936/nextjs.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Kevin Heis
   last_updated_on: 2023-11-13 17:04:32.000000000 Z
@@ -77,6 +81,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/.devcontainer/Dockerfile
   detection_source: ".devcontainer/Dockerfile"
   last_updated_by: Kevin Heis
   last_updated_on: 2023-01-23 16:00:25.000000000 Z
@@ -90,7 +95,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-11-29 17:50:32.000000000 Z
@@ -105,7 +110,7 @@ tools:
   category: Libraries
   sub_category: JavaScript Framework Components
   image_url: https://img.stackshare.io/service/6749/styled-components.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Kevin Heis
   last_updated_on: 2023-11-13 17:04:32.000000000 Z
@@ -117,6 +122,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Query Languages
   image_url: https://img.stackshare.io/service/3820/12972006.png
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package.json
   detection_source: package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-10-10 15:06:53.000000000 Z
@@ -128,6 +134,7 @@ tools:
   category: Monitoring
   sub_category: Performance Monitoring
   image_url: https://img.stackshare.io/service/669/default_34b3b9b42d07c33ac47ecdff75dd6f4f82aa70ee.jpg
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package.json
   detection_source: package.json
   last_updated_by: Jason Etcovitch
   last_updated_on: 2020-12-11 18:13:18.000000000 Z
@@ -140,6 +147,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/lilcashpl/docs
   detection_source: Repo Metadata
 - name: Dotenv
   description: Loads environment variables from .env for Nodejs projects
@@ -150,6 +158,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Server Configuration and Automation
   image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package.json
   detection_source: package.json
   last_updated_by: Kevin Heis
   last_updated_on: 2022-06-15 18:10:09.000000000 Z
@@ -162,6 +171,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package.json
   detection_source: package.json
   last_updated_by: Vanessa Yuen
   last_updated_on: 2020-09-27 12:10:11.000000000 Z
@@ -173,6 +183,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/lilcashpl/docs
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -182,6 +193,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/.github/workflows/add-review-template.yml
   detection_source: ".github/workflows/add-review-template.yml"
   last_updated_by: Peter Bengtsson
   last_updated_on: 2023-09-07 16:32:55.000000000 Z
@@ -195,7 +207,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/830/jest.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Vanessa Yuen
   last_updated_on: 2020-09-27 12:10:11.000000000 Z
@@ -207,6 +219,7 @@ tools:
   category: Monitoring
   sub_category: Log Management
   image_url: https://img.stackshare.io/service/1683/preview.png
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package.json
   detection_source: package.json
   last_updated_by: Vanessa Yuen
   last_updated_on: 2020-09-27 12:10:11.000000000 Z
@@ -218,6 +231,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package.json
   detection_source: package.json
   last_updated_by: Vanessa Yuen
   last_updated_on: 2020-09-27 12:10:11.000000000 Z
@@ -229,6 +243,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Tools for GitHub
   image_url: https://img.stackshare.io/service/9827/octokit-dotnet_2.png
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package.json
   detection_source: package.json
   last_updated_by: Peter Bengtsson
   last_updated_on: 2023-11-13 13:03:00.000000000 Z
@@ -242,7 +257,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Peter Bengtsson
   last_updated_on: 2023-11-14 16:02:26.000000000 Z
@@ -254,6 +269,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Text Editor
   image_url: https://img.stackshare.io/service/6888/c17e7d9688d86bd9f9506ec1fbd6d200_400x400.png
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package.json
   detection_source: package.json
   last_updated_by: Kevin Heis
   last_updated_on: 2023-11-14 18:29:00.000000000 Z
@@ -267,7 +283,7 @@ tools:
   category: Monitoring
   sub_category: node.js Application Monitoring
   image_url: https://img.stackshare.io/service/5577/preview.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Kevin Heis
   last_updated_on: 2023-11-13 19:40:33.000000000 Z
@@ -279,6 +295,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package.json
   detection_source: package.json
   last_updated_by: Vanessa Yuen
   last_updated_on: 2020-09-27 12:10:11.000000000 Z
@@ -290,6 +307,7 @@ tools:
   category: Application Utilities
   sub_category: Search as a Service
   image_url: https://img.stackshare.io/service/841/Image_2019-05-20_at_4.58.04_PM.png
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package.json
   detection_source: package.json
   last_updated_by: Kevin Heis
   last_updated_on: 2023-11-13 17:07:52.000000000 Z
@@ -299,6 +317,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/src/dev-toc/layout.html
   detection_source: src/dev-toc/layout.html
   last_updated_by: Sarah Schneider
   last_updated_on: 2022-08-10 19:05:23.000000000 Z
@@ -311,7 +330,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/2438/lodash.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Peter Bengtsson
   last_updated_on: 2023-11-14 16:02:26.000000000 Z
@@ -324,6 +343,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/lilcashpl/docs
   detection_source: Repo Metadata
 - name: chalk
   description: terminal colors
@@ -331,6 +351,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/8072/13122722.png
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package.json
   detection_source: package.json
   last_updated_by: Kevin Heis
   last_updated_on: 2022-06-15 18:10:09.000000000 Z
@@ -339,6 +360,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package.json
   detection_source: package.json
   last_updated_by: Kevin Heis
   last_updated_on: 2023-11-27 17:28:14.000000000 Z
@@ -347,6 +369,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/10577/11071.jpeg
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package.json
   detection_source: package.json
   last_updated_by: Peter Bengtsson
   last_updated_on: 2023-11-14 16:02:26.000000000 Z
@@ -360,7 +383,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16999/default_43f23668e39c9b3381720c9c76540776b8a49167.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Kevin Heis
   last_updated_on: 2023-11-13 17:04:32.000000000 Z
@@ -374,7 +397,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15945/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Peter Bengtsson
   last_updated_on: 2023-11-14 16:02:26.000000000 Z
@@ -388,7 +411,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-11-29 17:50:32.000000000 Z
@@ -402,7 +425,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-11-29 17:50:32.000000000 Z
@@ -416,7 +439,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Peter Bengtsson
   last_updated_on: 2023-11-14 16:02:26.000000000 Z
@@ -430,7 +453,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Peter Bengtsson
   last_updated_on: 2023-11-14 16:02:26.000000000 Z
@@ -444,7 +467,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16186/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Vanessa Yuen
   last_updated_on: 2020-09-27 12:10:11.000000000 Z
@@ -458,10 +481,24 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16617/default_bfa6d5d12cc0af739d6b3d4c69dddc66832b1d34.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Peter Bengtsson
   last_updated_on: 2023-10-10 14:16:39.000000000 Z
+- name: chalk
+  description: Terminal string styling done right
+  package_url: https://www.npmjs.com/chalk
+  version: 2.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15813/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Kevin Heis
+  last_updated_on: 2022-06-15 18:10:09.000000000 Z
 - name: change-case
   description: Transform a string between `camelCase`
   package_url: https://www.npmjs.com/change-case
@@ -472,7 +509,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16612/default_9cd376f2200c8f6c32ebd690bb6c290852dee64d.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Kevin Heis
   last_updated_on: 2023-11-13 17:04:32.000000000 Z
@@ -486,7 +523,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15949/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Peter Bengtsson
   last_updated_on: 2023-10-02 15:35:39.000000000 Z
@@ -500,7 +537,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15942/default_4040fefea2f98006727f63d042275b96a275ab2d.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Kevin Heis
   last_updated_on: 2023-06-05 21:44:20.000000000 Z
@@ -514,7 +551,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15829/default_50135978d26eba7c09093ceb23b96d522898e4eb.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Kevin Heis
   last_updated_on: 2023-11-13 17:04:32.000000000 Z
@@ -528,7 +565,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16136/default_def3edb85d7fbd20200a5cd7d0a1679e31bc8b3d.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Peter Bengtsson
   last_updated_on: 2023-11-14 16:02:26.000000000 Z
@@ -542,7 +579,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15828/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Kevin Heis
   last_updated_on: 2023-11-13 19:40:33.000000000 Z
@@ -557,7 +594,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16833/default_5c6919c5e02b8e6c83f3a2b23db5b6962e3caca0.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Kevin Heis
   last_updated_on: 2022-06-15 18:10:09.000000000 Z
@@ -571,7 +608,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17593/default_98adc81594c50d81f495d8c0ddd357e31c4f0a3e.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-07-10 19:29:56.000000000 Z
@@ -585,7 +622,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16736/default_cc1793e454d6d035c188f0198b037d58f372e7f2.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Peter Bengtsson
   last_updated_on: 2023-11-27 16:10:38.000000000 Z
@@ -599,7 +636,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Kevin Heis
   last_updated_on: 2023-11-14 18:29:00.000000000 Z
@@ -613,7 +650,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15872/default_e4668902f8489350db9b0fb228523a571ef05b26.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Kevin Heis
   last_updated_on: 2023-11-14 18:29:00.000000000 Z
@@ -627,7 +664,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18380/default_d0ba753d47207ad8f04b02befcab81c50f38718f.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Evan Bonsignori
   last_updated_on: 2023-11-27 14:58:17.000000000 Z
@@ -641,7 +678,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Peter Bengtsson
   last_updated_on: 2023-11-14 16:02:26.000000000 Z
@@ -655,7 +692,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15845/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Peter Bengtsson
   last_updated_on: 2023-11-14 16:02:26.000000000 Z
@@ -669,7 +706,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15885/default_1d65e37e65b7f80761374f0202776043277d505d.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Kevin Heis
   last_updated_on: 2023-11-14 18:29:00.000000000 Z
@@ -683,7 +720,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Kevin Heis
   last_updated_on: 2023-11-13 17:04:32.000000000 Z
@@ -697,7 +734,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17196/default_21a9522c66101ebad0e63609af74acb35fe29a0a.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Peter Bengtsson
   last_updated_on: 2023-11-14 16:02:26.000000000 Z
@@ -711,7 +748,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17025/default_88e2e076a71afdc1de87ad42c80c1606f2689af1.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-09-20 14:07:45.000000000 Z
@@ -725,7 +762,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Kevin Heis
   last_updated_on: 2023-11-13 17:04:32.000000000 Z
@@ -739,7 +776,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16258/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Vanessa Yuen
   last_updated_on: 2020-09-27 12:10:11.000000000 Z
@@ -753,7 +790,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17773/default_2f87d5add351cc79d3471e48bc0dd6f92c1288ad.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Kevin Heis
   last_updated_on: 2023-11-13 17:04:32.000000000 Z
@@ -767,7 +804,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16584/default_7be6bee773ad8b04cf2fb7e9ff82f5d7ba648dfd.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-05-11 12:03:36.000000000 Z
@@ -781,7 +818,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17291/default_116e98e237458e603feb81cfbf628c00544be692.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Kevin Heis
   last_updated_on: 2023-11-13 17:04:32.000000000 Z
@@ -795,10 +832,24 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16167/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Kevin Heis
   last_updated_on: 2023-11-14 18:29:00.000000000 Z
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  version: 8.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Kevin Heis
+  last_updated_on: 2023-11-27 17:28:14.000000000 Z
 - name: js-cookie
   description: A simple, lightweight JavaScript API for handling cookies
   package_url: https://www.npmjs.com/js-cookie
@@ -809,7 +860,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16441/default_89ba91277e3434b03295bb11d22736632df1d04f.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Peter Bengtsson
   last_updated_on: 2023-11-14 16:02:26.000000000 Z
@@ -823,10 +874,24 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15997/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Kevin Heis
   last_updated_on: 2023-11-13 17:04:32.000000000 Z
+- name: lint-staged
+  description: Lint files staged by git
+  package_url: https://www.npmjs.com/lint-staged
+  version: 15.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Peter Bengtsson
+  last_updated_on: 2023-11-14 16:02:26.000000000 Z
 - name: lodash-es
   description: Lodash exported as ES modules
   package_url: https://www.npmjs.com/lodash-es
@@ -837,7 +902,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16587/default_ebd83b4f0415be108d977ea72558b13fd7c5283d.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Peter Bengtsson
   last_updated_on: 2023-11-14 16:02:26.000000000 Z
@@ -851,7 +916,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17315/default_66bbb2a75a0234b1bfceaa99b8e82825fa7b8284.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Peter Bengtsson
   last_updated_on: 2023-04-25 18:48:21.000000000 Z
@@ -865,7 +930,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15881/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-12 19:34:37.000000000 Z
@@ -880,7 +945,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17523/default_e5adc22c59a44962e41dfaec51edeb42c083f2f4.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Kevin Heis
   last_updated_on: 2023-11-27 17:28:14.000000000 Z
@@ -894,7 +959,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16097/default_c7b204838197013798409fa2b4dafce450edc7fb.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Kevin Heis
   last_updated_on: 2021-05-19 17:32:47.000000000 Z
@@ -908,7 +973,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16036/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Peter Bengtsson
   last_updated_on: 2023-11-14 16:02:26.000000000 Z
@@ -922,7 +987,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15937/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Vanessa Yuen
   last_updated_on: 2020-09-27 12:10:11.000000000 Z
@@ -936,7 +1001,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16753/default_c11d90814ded8fcd305b22fdc42b42a3111f1f6d.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Peter Bengtsson
   last_updated_on: 2023-11-14 16:02:26.000000000 Z
@@ -950,7 +1015,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-11-29 17:50:32.000000000 Z
@@ -964,7 +1029,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17485/default_2ae5beb193365eca46e337162957275ebc9c6b3b.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Peter Bengtsson
   last_updated_on: 2023-11-14 16:02:26.000000000 Z
@@ -978,7 +1043,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-04-12 20:19:14.000000000 Z
@@ -992,7 +1057,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16057/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Kevin Heis
   last_updated_on: 2022-06-15 18:10:09.000000000 Z
@@ -1006,7 +1071,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18809/default_dad3dc9dde4b82dc2a7bd32aa091165887abe57b.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Peter Bengtsson
   last_updated_on: 2023-08-25 15:28:43.000000000 Z
@@ -1020,7 +1085,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16806/default_31a4e0e11d348225088320f3a5c5ea6fa49c27ad.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-11-16 18:24:30.000000000 Z
@@ -1034,7 +1099,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16831/default_1b078765f7b7ae4ccce598a7251eb06451511e5e.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-09-28 15:37:05.000000000 Z
@@ -1049,7 +1114,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15864/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Peter Bengtsson
   last_updated_on: 2023-11-29 12:45:15.000000000 Z
@@ -1063,7 +1128,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17259/default_03da3f7f53e439ab3b23ec47828b2f3229885efd.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Peter Bengtsson
   last_updated_on: 2023-09-21 18:07:33.000000000 Z
@@ -1077,7 +1142,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17139/default_37d9ccc57ae4d32e7ff46614e4f8bb2c4ddc7964.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-08-09 15:23:03.000000000 Z
@@ -1091,7 +1156,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17846/default_369b3bf3ef062123a581e4817f09cb0004de7ff6.png
-  detection_source_url: github.com/lilcashpl/docs/blob/main/package-lock.json
+  detection_source_url: https://github.com/lilcashpl/docs/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Kevin Heis
   last_updated_on: 2023-11-13 17:07:52.000000000 Z
